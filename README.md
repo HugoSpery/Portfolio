@@ -21,3 +21,7 @@ Le portfolio est accessible à l'adresse suivante :
 ## 📚 Structure du projet
 
 Le portfolio est structuré de manière simple et efficace :
+
+> **Note :** Ce projet est mon portfolio de première année de BUT Informatique.
+
+
